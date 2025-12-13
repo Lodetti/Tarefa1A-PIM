@@ -6,4 +6,4 @@ Trabalho sobre a disciplina de Processamento de Imagens
 
 Classificação de tipos de células no cérebro através de conectividade
 
-**Professor: ** Gilmario Barbosa dos Santos
+**Professor:** Gilmario Barbosa dos Santos
